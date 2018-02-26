@@ -1,0 +1,17 @@
+﻿  Timer.cpp
+d:\github projects\comp140_sdl_pong_game\timer.cpp(28): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Pong.cpp
+d:\github projects\comp140_sdl_pong_game\pong\pong.cpp(129): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Player.cpp
+d:\github projects\comp140_sdl_pong_game\pong\player.cpp(69): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Object.cpp
+d:\github projects\comp140_sdl_pong_game\pong\object.cpp(28): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  DebugPrinter.cpp
+d:\github projects\comp140_sdl_pong_game\pong\debugprinter.cpp(168): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  bitmap.cpp
+d:\github projects\comp140_sdl_pong_game\pong\bitmap.cpp(154): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Ball.cpp
+d:\github projects\comp140_sdl_pong_game\pong\ball.cpp(67): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  01.pong.cpp
+d:\github projects\comp140_sdl_pong_game\01.pong.cpp(128): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Generating Code...

@@ -1,0 +1,16 @@
+﻿  01.pong.cpp
+01.pong.cpp(128): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Ball.cpp
+Pong\Ball.cpp(67): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  bitmap.cpp
+Pong\bitmap.cpp(154): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  DebugPrinter.cpp
+Pong\DebugPrinter.cpp(168): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Object.cpp
+Pong\Object.cpp(28): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Player.cpp
+Pong\Player.cpp(69): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Pong.cpp
+Pong\Pong.cpp(3): fatal error C1083: Cannot open precompiled header file: 'Release\01.Pong.pch': No such file or directory
+  Timer.cpp
+Timer.cpp(28): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
